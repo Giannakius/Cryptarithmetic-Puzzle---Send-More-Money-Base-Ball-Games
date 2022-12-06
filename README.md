@@ -1,4 +1,4 @@
-#Cryptarithmetic-Puzzle // Send+More== Money // Base+Ball== Games
+# Cryptarithmetic-Puzzle // Send+More== Money // Base+Ball== Games
 
 ![send-plus-more-equals-money-blog](https://user-images.githubusercontent.com/76212536/206038379-a56a8df4-26b5-4afd-8b6b-dde3ab62b92d.png)
 
