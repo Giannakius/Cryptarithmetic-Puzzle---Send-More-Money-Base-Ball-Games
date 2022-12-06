@@ -1,13 +1,12 @@
-# Cryptarithmetic-Puzzle---Send-More-Money-Base-Ball-Games
-
-![send-plus-more-equals-money-blog](https://user-images.githubusercontent.com/76212536/206037595-04d38330-2977-435e-9a07-ecd3c424e088.png)
+# Question4
 
 
+TOURNIS IOANNIS -- SDI2000192 
 
-Here is the Pronunciation of this project
-https://mindyourdecisions.com/blog/2018/09/06/send-more-money-a-great-puzzle/
 
-Send + More = Money
+Η λογικη της ασκησης ειναι να φτιαξω εναν πινακα ας πουμε Ν στοιχειων ο οποιος θα περιεχει ολα τα ξεχωριστα γραμματα 
+απο την φραση που θα μας δωσει , για παραδειγμα στην περιπτωση "BASE + BALL = GAMES" ο πινακας θα ειναι 7 θεσεων 
+και θα ειναι ο {B,A,S,E,L,G,M} . Φτιαχνω επισης εναν αλλο πινακα με ακεραιους Ν θεσεων ο οποιος ΑΝΑΔΡΟΜΙΚΑ θα 
+βρισκει ολους τους πιθανους συνδιασμους των αριθμων 0 - 10 με την προυποθεση οτι το καθε νουμερο χρησιμοποιειται μονο μια φορα.
 
-Base + Ball = Games
-
+Καθε φορα θα ελεγχουμε αν τα γραμματα που βρισκει η αναδρομη επαληθευουν την πραξη μας , και αν αυτο ισχυει τοτε εμφανιζουμε τα νουμερα.
